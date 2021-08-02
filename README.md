@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedMasiuddin
 - 👀 I’m interested in React, Angular, Nodejs, Python, Mongodb, Sql, Swift, Ios, Java, Android, Webpack, Gatsby, Flask, Django etc. 
 - 🌱 I’m currently learning Android, Flutter and Ios
-- 💞️ I’m looking to collaborate on Open Source projects.
+- 💞️ I’m looking to collaborate on Open Source projects and Startups.
 - 📫 How to reach me at mdmasiuddin144@gmail.com
 
 <!---
